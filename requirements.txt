@@ -8,3 +8,4 @@ beautifulsoup4==4.10.0
 lxml==4.7.1
 cchardet==2.1.7
 Werkzeug==2.2.2
+google_auth_oauthlib==1.2.1 
